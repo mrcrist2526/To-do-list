@@ -1,0 +1,21 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "To do list challenge from Angela Yu's frontend development course. ",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Mason Crist.",
+  "license": "ISC",
+  "engines": {
+    "node": "16.14.0"
+  },
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.2",
+    "lodash": "^4.17.21",
+    "mongoose": "^6.2.0"
+  },
+  "devDependencies": {}
+}
